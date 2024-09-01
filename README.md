@@ -1,5 +1,3 @@
-# tkms81
-
 # Hello, I'm [Your Name]! 👋
 
 Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your Interests or Specialties]. Here you'll find a variety of projects that I’ve worked on, focusing mainly on [Your Main Areas of Work].
