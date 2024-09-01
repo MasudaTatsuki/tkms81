@@ -20,7 +20,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tkms81&show_icons=true&theme=radical)
 
 ## 🗂️ Projects
 
